@@ -1,0 +1,135 @@
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo img {
+    border-radius: 20px;
+}
+
+nav {
+    background-color: rgb(63, 207, 226);
+    padding: 10px;
+    color: rgb(53, 54, 54);
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.menu {
+    padding-right: 100px;
+}
+
+.submenu {
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+}
+
+.contactos {
+    font-size: 20px;
+}
+
+.textomenu {
+    font-size: 15px;
+    justify-content: space-between;
+}
+
+nav li {
+    padding-left: 40px;
+    list-style: none;
+}
+
+nav li a {
+    color: rgb(56, 56, 55);
+    text-decoration: none;
+}
+
+
+/* second secction banner */
+
+.imagebanner {
+    padding: 0px;
+}
+
+.imagebanner img {
+    padding: 0px;
+    margin: 0px;
+    /* border-radius: 20px; */
+}
+
+.slider-section {
+    padding: 0px;
+    margin: 0px;
+}
+
+.slider-section img {
+    width: 100%;
+}
+
+.texto_debajo-baner ul {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(31, 31, 250, 0.884);
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.produc-banner {
+    padding-left: 300px;
+    font-size: 20px;
+    color: white;
+    list-style: none;
+}
+
+.more {
+    list-style: none;
+}
+
+.more a {
+    padding-right: 300px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+
+/* tercera cection */
+
+.tercercontainer {
+    background-color: tomato;
+    padding: 0px;
+    margin: 0px;
+}
+
+.cuadros {
+    width: 70%;
+    background-color: turquoise;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 0px;
+    padding: 2px;
+}
+
+.cu {
+    float: left;
+    padding: 100px;
+    background-color: violet;
+    margin: 2px;
+    border-radius: 5px;
+}
+
+.inform {
+    width: 70%;
+    background-color: rgb(45, 216, 102);
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 0px;
+    padding: 2px;
+}
